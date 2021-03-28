@@ -1,1 +1,3 @@
 # pythonestan
+term
+: definition
